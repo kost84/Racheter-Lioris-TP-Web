@@ -37,7 +37,7 @@ Le jeu a été développé en respectant les contraintes suivantes :
 2. **Design et Immersion**
    - **scène complet :** Chaque page contient un titre une image de fond d'ambiance un paragraphe narratif et des boutons de choix.
    - **Boutons personnalisés :** Les boutons de navigation sont stylisés en CSS.
-   - **Icônes :** Intégration d'icônes sur certains boutons pour illustrer les actions. ❌
+   - **Icônes :** Intégration d'icônes sur certains boutons pour illustrer les actions. 
    - HTML et CSS propres, structurés et sémantiques.
 
 3. **Documentation**
@@ -63,7 +63,7 @@ Le code est divisé en plusieurs dossiers pour une meilleure lisibilité et modu
     └── sounds/               #  Sons et ambiances audio
 ```
 
-> ⚠️ **Avertissement :** Les images et illustrations (backgrounds) utilisées pour illustrer les scènes de ce projet ont été générées par l'intelligence artificielle Gemini .
+>  **Avertissement :** Les images et illustrations (backgrounds) utilisées pour illustrer les scènes de ce projet ont été générées par l'intelligence artificielle Gemini .
 
 ## Auteur
 
