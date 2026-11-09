@@ -63,7 +63,7 @@ Le code est divisé en plusieurs dossiers pour une meilleure lisibilité et modu
     └── sounds/               #  Sons et ambiances audio
 ```
 
->  **Avertissement :** Les images et illustrations (backgrounds) utilisées pour illustrer les scènes de ce projet ont été générées par l'intelligence artificielle Gemini .
+>  **Avertissement :** Les images et illustrations (backgrounds) utilisées pour illustrer les scènes de ce projet ont été générées par l'intelligence artificielle .
 
 ## Auteur
 
